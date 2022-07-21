@@ -1,0 +1,253 @@
+
+#topbar{
+    width: 1000px;
+    margin:0 auto;
+    height: 40px;   
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+#logo{          
+    margin-top: 8px;
+    margin-right: 8px;
+    float: left; 
+    width: 100px;
+}
+.topbar-section{
+    float: left;
+    border-left: 1px rgb(159, 152, 152) solid;
+    height: 100%;       
+}
+#login{
+    width: 25px;
+    margin: 11px 15px;
+    float: left;
+    
+}
+#text{
+    font-weight: bold ;
+    font-size: 90%;
+    position: relative;
+    top:14px;
+    padding-right: 50px ;
+}
+#line{
+    float:left;
+    height: 40px;  
+        
+}
+#bell{
+    height: 25px;
+    margin: 9px ;
+}
+#text1{
+    float: left;
+}
+.topbar-menu{
+    font-weight: bold;
+    font-size: 90%;
+    padding: 13px 15px 0 14px;
+    height: 27px;
+    float: left;
+    
+}
+#wigllyline{
+    float: left;
+}
+#arrow{
+    margin-left: 20px;
+    height: 10px;     
+}
+#search{
+    background-color: rgb(226, 219, 219);
+    border:none;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 5px;
+    margin: 5px 0 5px 5px;
+    float: left;
+}
+#glass{
+    height: 26px;
+    margin-top: 5px;
+}
+#menu-bar-container {
+    background-color: #BB1919;
+    height: 70px;
+
+}
+h1{
+    margin:0 auto;
+    padding-top:10px;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: normal;
+    padding-top: 10px;
+    float: left;
+    position: relative;
+    right: 320px;
+
+}
+#localnews{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: normal;
+    position: relative;
+    left: 30px;
+    margin: 0 auto; 
+}
+
+#localnews a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+    margin:8px;   
+    position: relative;
+    left: 230px;
+    top: -10px;
+   
+   
+}
+#img{
+    position:relative;
+    left:20px;
+    margin-top: 15px;
+    margin-left: 210px;
+    height: 40px;
+    
+}
+#second-bar {
+    background-color: #A91717;
+    height: 40px;
+}
+#menu-bar-2{
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    right: 90px;
+    height: 10px;
+   
+}    
+#menu-bar-2 a{
+   
+    margin: 0 auto;
+    border-left: 1px #BB4545 solid;
+    margin-top: 10px;
+    color :aliceblue;   
+    text-decoration: none;
+    position: relative;
+    left: 80px;
+    float: left;
+    padding: 0 10px;
+    font-size: 16px;
+
+} 
+#menu-bar-2 a:hover{
+    text-decoration: underline;
+
+}
+#down-arrow{
+    position: relative;
+    left: 80px;
+    height: 15px;
+    margin-top: 10px;
+}
+#page-container{
+    width: 1400px;
+    margin: 0 auto;
+    margin-top: 10px;
+   
+   
+}
+
+#main-container{
+    width: 780px;
+    border-right: 2px solid #A91717;
+    float: left;
+ 
+}
+
+
+h2{
+    color: rgb(92, 88, 88);
+    text-decoration: underline;
+    text-decoration-color: #BB1919;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+h3 a{
+    text-decoration: none;
+    color:#BB1919;
+    font-size: 40px;
+    font-style: normal;        
+}
+
+h3 a:hover{
+    color:rgb(136, 61, 39);
+}
+h4 {
+    color:  rgb(92, 88, 88);
+    float: left;
+    width: 750px;
+    font-size: 15px;
+}
+#war-photo{
+    height: 400px;
+}
+#division{
+    height: 2px;
+    width: 700px;
+    background-color: #BB1919;
+    margin: 0 auto;
+    margin-top: 10px;
+    float: left;
+}
+#energy{
+    height: 500px;
+}
+#clock{
+    height: 20px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+#data{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #BB1919;
+    font-size: 20px;
+    border-left: 1px solid gray;  
+    border-right: 1px solid gray; 
+    width: 150px;
+}
+
+#menu{
+    text-decoration: underline;
+    color:  rgb(92, 88, 88);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;  
+    text-decoration-color: #BB1919 ;
+    position: relative;
+    left: 170px;
+    bottom: 47px;
+   
+}
+
+
+#video{
+  
+    position: relative;
+    left: 70px;
+}
+h6{
+    position: relative;
+    left: 200px;
+    font-size: 30px;
+    text-decoration: underline  #1972bb6e;
+    color: rgb(92, 88, 88);
+}
+    
+
