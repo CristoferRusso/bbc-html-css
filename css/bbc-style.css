@@ -158,14 +158,15 @@ h1{
     width: 1400px;
     margin: 0 auto;
     margin-top: 10px;
-   
-   
+  
 }
 
 #main-container{
-    width: 780px;
+    width: 800px;
     border-right: 2px solid #A91717;
     float: left;
+    margin: 0 auto;
+    
  
 }
 
@@ -174,7 +175,7 @@ h2{
     color: rgb(92, 88, 88);
     text-decoration: underline;
     text-decoration-color: #BB1919;
-    font-size: 20px;
+    font-size: 40px;
     position: relative;
     bottom: 20px;
 }
@@ -225,16 +226,11 @@ h4 {
     width: 150px;
 }
 
-#menu{
-    text-decoration: underline;
-    color:  rgb(92, 88, 88);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;  
-    text-decoration-color: #BB1919 ;
-    position: relative;
-    left: 170px;
-    bottom: 47px;
-   
+#menu a{
+   font-size: 20px;
+   text-decoration: none;
+   color: #A91717;
+
 }
 
 #video{
@@ -249,8 +245,9 @@ h6{
     position: relative;
     left: 200px;
     font-size: 30px;
-    text-decoration: underline  #1972bb6e;
     color: rgb(92, 88, 88);
+    
+   
 }
 #publicity{
     height: 450px;
